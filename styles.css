@@ -43,6 +43,7 @@ padding: 20px;
 gap: 20px;
 }
 
-h2 < section {
-  background-color: black;
+section > h2 {
+  background-color: rgb(30, 91, 52);
+  color: bisque;
 }
